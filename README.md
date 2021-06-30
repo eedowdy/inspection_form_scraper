@@ -1,5 +1,5 @@
 # Manhole Inspection TXT Parser
-Takes a directory of PDF inspection reports that have been converted to TXT and enters their data into a table
+Takes a directory of PDF inspection reports that have been converted to TXT and enters their data into a table.
 
 ### **Usage instructions:**
 1. Convert folder of pdf files to TXT (plain text). Use https://pdftotext.com/. Upload all of your pdf files to the site and press download all. Place your converted txt files into a folder. The converted files may come in a zipped folder that you will need to extract. 
