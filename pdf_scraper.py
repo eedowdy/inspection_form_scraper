@@ -43,7 +43,7 @@ def get_dimensions(file_name, directory_path): # manually parse pipe size table 
     
     rem_nl = rem_nl[:end]
 
-  while len(rem_nl) != 20: # resize final product
+  while len(rem_nl) != 24: # resize final product
     rem_nl.append(' ')
 
   return rem_nl
